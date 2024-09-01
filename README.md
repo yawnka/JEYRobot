@@ -1,2 +1,2 @@
 # JEYRobot
-Autonomous Measuring Robot
+Autonomous Area Traclomg Robot (A-ATR)
